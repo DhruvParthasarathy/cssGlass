@@ -1,1 +1,1 @@
-![output]("./output.gif")
+![output](https://user-images.githubusercontent.com/54674314/126042204-0e72b70a-9157-4786-bd1b-75df38d41c21.gif)
